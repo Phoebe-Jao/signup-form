@@ -1,0 +1,26 @@
+@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+@theme {
+  --font-display: "Poppins", "sans-serif";
+
+  --breakpoint-sm: "23.438rem";
+  --breakpoint-xl: "90rem";
+
+  --color-custom-yellow: #f6a32e;
+  --color-custom-purple-100: #8965f2;
+  --color-custom-purple-300: #5e4b99;
+  --color-custom-purple-500: #221b31;
+  --color-custom-purple-700: #0d041f;
+  --color-custom-white: #d1c1a5;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+}
+/* 
+body {
+  background: linear-gradient(to bottom, var(--color-custom-purple-500), var(--color-custom-purple-700));
+  background-repeat: no-repeat;
+} */
