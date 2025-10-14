@@ -15,7 +15,7 @@ function App() {
         </div>
         <div className='w-1/2 max-sm:w-full'>
           <a href="#" className='w-full block text-custom-white text-center hover:bg-custom-purple-100 bg-custom-purple-300 transition-all duration-500 rounded-[0.5rem] mb-6 p-5'>
-            <strong>Try it free 7 days</strong> then <br className='max-sm:block min-[769px]:hidden' />$20/mo. thereafter
+            <strong>Try it free 7 days</strong> then <br className='max-sm:block min-[769px]:hidden' />PHP 159.00/month thereafter
           </a>
           <Form />
         </div>
