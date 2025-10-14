@@ -14,8 +14,8 @@ A simple and responsive sign-up form built with **React.js** and **Tailwind CSS*
 
 ## 🚀 Features
 
-✅ Fully responsive layout
-✅ Built with React JS
-✅ Styled using Tailwind CSS
-✅ Custom font and color palette
-✅ Clean, modern UI
+- ✅ Fully responsive layout
+- ✅ Built with React JS
+- ✅ Styled using Tailwind CSS
+- ✅ Custom font and color palette
+- ✅ Clean, modern UI
