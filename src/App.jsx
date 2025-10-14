@@ -3,7 +3,7 @@ import Form from './components/Form'
 function App() {
 
   return (
-    <main className='relative min-h-screen max-sm:h-full bg-gradient-to-b from-custom-purple-500 to-custom-purple-700 overflow-hidden'>
+    <main className='font-display relative min-h-screen max-sm:h-full bg-gradient-to-b from-custom-purple-500 to-custom-purple-700 overflow-hidden'>
       <img src="/images/bg-intro-desktop.png" alt="background overlay" className="absolute inset-0 w-full h-full object-cover opacity-30 pointer-events-none min-sm:block max-sm:hidden" />
       <img src="/images/bg-intro-mobile.png" alt="background overlay" className="absolute inset-0 w-full h-full object-cover opacity-30 pointer-events-none min-sm:hidden max-sm:block" />
       <div className="min-h-screen max-sm:h-full w-full max-w-[69.3rem] max-sm:max-w-[87%] sm:px-6 mx-auto flex justify-between items-center gap-[1.9rem] max-sm:gap-6 max-sm:flex-col max-sm:py-[5.7rem]">
