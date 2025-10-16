@@ -15,7 +15,7 @@ const Form = () => {
   }
 
   return (
-    <form action="" onSubmit={handleFormSubmit} className="bg-custom-gray-700 flex flex-col justify-center items-center px-10 max-sm:px-6 py-10 max-sm:py-6 rounded-[0.8rem] shadow-lg shadow-custom-purple-700">
+    <form action="" onSubmit={handleFormSubmit} className="bg-custom-gray-700 flex flex-col justify-center items-center px-10 max-sm:px-6 py-10 max-sm:py-6 rounded-[0.8rem] border-1 border-white/30">
       <Input name="firstName" placeholder="First Name" />
       <Input name="lastName" placeholder="Last Name" />
       <Input type="email" name="email" placeholder="Email Address" />
