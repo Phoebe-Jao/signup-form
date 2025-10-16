@@ -6,7 +6,7 @@ A simple and responsive sign up form built with **React JS** and **Tailwind CSS*
 
 ## 📸 Screenshot
 
-![Screenshot](https://i.imgur.com/lP2IWcj.png)
+![Screenshot](https://i.imgur.com/rMzLRV5.png)
 
 [Preview](https://streamora-signup-form.netlify.app/)
 
