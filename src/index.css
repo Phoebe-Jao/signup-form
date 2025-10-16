@@ -7,12 +7,18 @@
   --breakpoint-xs: "23.438rem";
   --breakpoint-xl: "90rem";
 
+  --color-primary: #ab79d6;
+  --color-secondary: #d367c1;
+  --color-white: #c5c5ce;
+
   --color-custom-yellow: #f6a32e;
   --color-custom-purple-100: #8965f2;
   --color-custom-purple-300: #5e4b99;
   --color-custom-purple-500: #221b31;
   --color-custom-purple-700: #0d041f;
   --color-custom-white: #d1c1a5;
+  --color-custom-gray-500: #27272c;
+  --color-custom-gray-700: #1e1c22;
 }
 
 body {

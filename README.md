@@ -1,6 +1,6 @@
 # 📝 Signup Form – React + Tailwind CSS
 
-A simple and responsive sign-up form built with **React.js** and **Tailwind CSS**. The original layout was provided by [Frontend Mentor](https://www.frontendmentor.io/), with some custom design adjustments.
+A simple and responsive sign up form built with **React JS** and **Tailwind CSS**, as well as **Framer Motion** for the button animations. This project focuses on clean UI/UX and form validation. Streamora is a fictional project inspired by existing brands like Netflix. It is made for practice/portfolio purposes only.
 
 ---
 
